@@ -82,6 +82,7 @@ module.exports = {
         '**/gulpfile.js', // gulp config
         '**/gulpfile.*.js', // gulp config
         '**/Gruntfile', // grunt config
+        'src/setupTests.js', // create-react-app default test setup
       ],
       optionalDependencies: false,
     }],
